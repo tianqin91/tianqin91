@@ -11,23 +11,23 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ## Publications
 
-1. **Qin, T.,** Zhang, Q., Wentzcovitch, R*., Umemoto, K., qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems, ﻿Computer Physics Communications (2018), https://doi.org/10.1016/j.cpc.2018.11.003. 
+1. **Qin, T.,** Zhang, Q., Wentzcovitch, R*., Umemoto, K., qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems, ﻿Computer Physics Communications (2018),  [link](https://doi.org/10.1016/j.cpc.2018.11.003).
 
-2. **Qin, T.,** Wentzcovitch, R.*., Umemoto, K., Hirschmann, M. M. & Kohlstedt, D. L. Ab initio study of water speciation in forsterite: importance of the entropic effect. Am. Mineral. (2018). doi:10.2138/am-2018-6262
+2. **Qin, T.,** Wentzcovitch, R.*., Umemoto, K., Hirschmann, M. M. & Kohlstedt, D. L. Ab initio study of water speciation in forsterite: importance of the entropic effect. Am. Mineral. (2018). [link](doi:10.2138/am-2018-6262).
 
-3. Wang, W., **Qin, T.,** Zhou, C., Huang, S., Wu, Z*., Huang, F*., 2017. Concentration effect on equilibrium fractionation of Mg-Ca isotopes in carbonate minerals: insights from first-principles calculations. Geochim. Cosmochim. Acta. http://dx.doi.org/10.1016/j.gca.2017.03.023
+3. Wang, W., **Qin, T.,** Zhou, C., Huang, S., Wu, Z*., Huang, F*., 2017. Concentration effect on equilibrium fractionation of Mg-Ca isotopes in carbonate minerals: insights from first-principles calculations. Geochim. Cosmochim. Acta.[link](http://dx.doi.org/10.1016/j.gca.2017.03.023).
 
-4. Wang, W., Zhou, C., **Qin, T**., Kang, J.-T., Huang, S., Wu, Z*., Huang, F., 2017. Effect of Ca content on equilibrium Ca isotope fractionation between orthopyroxene and clinopyroxene. Geochim. Cosmochim. Acta 219, 44–56. https://doi.org/10.1016/j.gca.2017.09.022 
+4. Wang, W., Zhou, C., **Qin, T**., Kang, J.-T., Huang, S., Wu, Z*., Huang, F., 2017. Effect of Ca content on equilibrium Ca isotope fractionation between orthopyroxene and clinopyroxene. Geochim. Cosmochim. Acta 219, 44–56. [link](https://doi.org/10.1016/j.gca.2017.09.022). 
 
-5. **Qin, T**., Wu, F., Wu, Z*., Huang, F*., 2016. First-principles calculations of equilibrium fractionation of O and Si isotopes in quartz, albite, anorthite, and zircon. Contrib. to Mineral. Petrol. 171, 91. doi:10.1007/s00410-016-1303-3
+5. **Qin, T**., Wu, F., Wu, Z*., Huang, F*., 2016. First-principles calculations of equilibrium fractionation of O and Si isotopes in quartz, albite, anorthite, and zircon. Contrib. to Mineral. Petrol. 171, 91. [link](doi:10.1007/s00410-016-1303-3).
 
-6. Wu, F*., **Qin, T\***., Li, X., Liu, Y., Huang, J.-H., Wu, Z., Huang, F., 2015. First-principles investigation of vanadium isotope fractionation in solution and during adsorption. Earth Planet. Sci. Lett. 426, 216–224. doi:10.1016/j.epsl.2015.06.048
+6. Wu, F*., **Qin, T\***., Li, X., Liu, Y., Huang, J.-H., Wu, Z., Huang, F., 2015. First-principles investigation of vanadium isotope fractionation in solution and during adsorption. Earth Planet. Sci. Lett. 426, 216–224. [link](doi:10.1016/j.epsl.2015.06.048).
 
-7. Feng, C., **Qin, T.,** Huang, S., Wu, Z*., Huang, F*., 2014. First-principles investigations of equilibrium calcium isotope fractionation between clinopyroxene and Ca-doped orthopyroxene. Geochim. Cosmochim. Acta 143, 132–142. doi:10.1016/j.gca.2014.06.002
+7. Feng, C., **Qin, T.,** Huang, S., Wu, Z*., Huang, F*., 2014. First-principles investigations of equilibrium calcium isotope fractionation between clinopyroxene and Ca-doped orthopyroxene. Geochim. Cosmochim. Acta 143, 132–142. [link](doi:10.1016/j.gca.2014.06.002)
 
 ### Submitted
 
-Zhang, Z., **Qin, T**., Pommier, A., Hirschmann, M., Carbon Storage in Fe-Ni-S Liquids in the Deep Upper Mantle and its Relation to Diamond and Fe-Ni Alloy Precipitation.
+1. Zhang, Z., **Qin, T**., Pommier, A., Hirschmann, M., Carbon Storage in Fe-Ni-S Liquids in the Deep Upper Mantle and its Relation to Diamond and Fe-Ni Alloy Precipitation.
 
 ### In preparation
 
@@ -37,7 +37,8 @@ Zhang, Z., **Qin, T**., Pommier, A., Hirschmann, M., Carbon Storage in Fe-Ni-S L
 
 ## Conference Presentations and Posters
 
-1. Qin, T., Wentzcovitch, R., Marcondes, and M., Shukla, G., Ab initio study of iron isotope fractionation during Earth’s core-mantle segregation, 2019 APS March Meeting, Oral presentation.
+1. K Umemoto, T Qin, R Wentzcovitch, Ab initio study of water speciation in forsterite, 2019 APS March Meeting, Oral presentation.
+2. Qin, T., Wentzcovitch, R., Marcondes, and M., Shukla, G., Ab initio study of iron isotope fractionation during Earth’s core-mantle segregation, 2019 APS March Meeting, Oral presentation.
 
 2. Qin, T., Marcondes, M., Shukla, G., and Wentzcovitch, R., Iron isotope fractionation during Earth’s core-mantle segregation. Fall 2018 AGU Abstract and Poster.
 
@@ -60,16 +61,3 @@ Zhang, Z., **Qin, T**., Pommier, A., Hirschmann, M., Carbon Storage in Fe-Ni-S L
 11. Wu, Z., Wang, W., Qin, T., and Huang, F., 2016, The compositional effect on Ca-Mg isotope fractionations among carbonates: First-Principles Investigations. July 2016 Goldschmidt Conference, Abstract.
 
 12. Qin, T., Wu, F., Wu, F., and Huang, F.,  First-principles investigation of equilibrium isotopic fractionation of Si and O isotope among quartz, albite, anorthite, orthoenstatite, clinoenstatite, olivine and zircon. Fall 2013 *AGU*, Abstract.
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
