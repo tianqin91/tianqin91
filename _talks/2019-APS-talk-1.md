@@ -2,9 +2,9 @@
 title: "Iron isotope fractionation during Earth's core-mantle segregation"
 collection: talks
 type: "Talk"
-permalink: /talks/3/5/2019-APS-talk-1
+permalink: /talks/5/3/2019-APS-talk-1
 venue: "APS March Meeting"
-date: 3/5/2019
+date: 5/3/2019
 location: "Boston, MA"
 ---
 
