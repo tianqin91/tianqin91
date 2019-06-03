@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tian Qin"
   avatar           : "profile.png"
-  bio              : "Computational mineral physicist with 5 years of quantum chemistry computations, projects include predicting hydrous defects in forsterite/olivine, calculate O/Si/Ca/Fe/V isotopes fractionation among minerals, developing thermodynamic calculation code"
-  location         : "Location"
+  bio              : "Research Assistant at University of Minnesota | Quantum Chemistry Calculations + Mineral Physics"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8MdM3eoAAAAJ&hl=en&authuser=1"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tian-qin-a179b6131/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
