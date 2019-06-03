@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate workshop"
 permalink: /teaching/2016-summer-teaching
 venue: "University of Minnesota, College of Science and Engineering "
-date: 2016-2017
+date: 2016-08-04
 location: "Minneapolis, MN, USA"
 ---
 
