@@ -11,7 +11,6 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ## Publications
 
-
 {: reversed="reversed"}
 
 
@@ -48,6 +47,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 2. **Qin, T\***., Wentzcovitch, R*., Wu, Z., thermoisotope: A Python package to calculate the stable isotope fractionation factor from phonon density of state.
 
 ## Conference Presentations and Posters
+
+{: reversed="reversed"}
 
 1. K Umemoto, T Qin, R Wentzcovitch, Ab initio study of water speciation in forsterite, 2019 APS March Meeting, Oral presentation.
 2. Qin, T., Wentzcovitch, R., Marcondes, and M., Shukla, G., Ab initio study of iron isotope fractionation during Earth’s core-mantle segregation, 2019 APS March Meeting, Oral presentation.
