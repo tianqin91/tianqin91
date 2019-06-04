@@ -11,6 +11,10 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ## Publications
 
+
+{: reversed="reversed"}
+
+
 1. **Qin, T.,** Zhang, Q., Wentzcovitch, R*., Umemoto, K., qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems, ﻿Computer Physics Communications (2018),  [link](https://doi.org/10.1016/j.cpc.2018.11.003).
 
 2. **Qin, T.,** Wentzcovitch, R.*., Umemoto, K., Hirschmann, M. M. & Kohlstedt, D. L. Ab initio study of water speciation in forsterite: importance of the entropic effect. Am. Mineral. (2018). [link](doi:10.2138/am-2018-6262).
@@ -27,9 +31,17 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ### Submitted
 
+
+{: reversed="reversed"}
+
+
 1. Zhang, Z., **Qin, T**., Pommier, A., Hirschmann, M., Carbon Storage in Fe-Ni-S Liquids in the Deep Upper Mantle and its Relation to Diamond and Fe-Ni Alloy Precipitation.
 
 ### In preparation
+
+
+{: reversed="reversed"}
+
 
 1. **Qin, T**., Marcondes, M., Wentzcovitch, R*., Shukla, G., Wu, Z., Iron isotope fractionation in the core formation.
 
