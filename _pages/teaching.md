@@ -1,8 +1,8 @@
-```
+---
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
-```
+---
 
 ## Lab Instructor, University of Minnesota (2014-2016)
 
