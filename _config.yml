@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian Qin"
+title                    : "Dr. Tian Qin"
 title_separator          : "-"
-name                     : &name "Tian Qin"
-description              : &description "personal description"
+name                     : &name "Dr. Tian Qin"
+description              : &description "Research Assistant at University of Minnesota"
 url                      : https://tianqin91.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianqin91.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tian Qin"
   avatar           : "profile.png"
-  bio              : "Research Assistant at University of Minnesota | Quantum Chemistry Calculations + Mineral Physics"
+  bio              : "Research Assistant at University of Minnesota | Quantum Chemist | Mineral Physicist"
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
