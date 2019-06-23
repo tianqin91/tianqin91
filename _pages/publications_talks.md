@@ -13,6 +13,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 {: reversed="reversed"}
 
+1. Zhang, Z*., Qin, T., Pommier, A., Hirschmann, M.M*., 2019. Carbon storage in Fe-Ni-S liquids in the deep upper mantle and its relation to diamond and Fe-Ni alloy  precipitation. Earth and Planetary Science Letters 520, 164–174. [link](https://doi.org/10.1016/j.epsl.2019.05.039)
 
 1. **Qin, T.,** Zhang, Q., Wentzcovitch, R*., Umemoto, K., qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems, ﻿Computer Physics Communications (2018),  [link](https://doi.org/10.1016/j.cpc.2018.11.003).
 
@@ -34,7 +35,6 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 {: reversed="reversed"}
 
 
-1. Zhang, Z., **Qin, T**., Pommier, A., Hirschmann, M., Carbon Storage in Fe-Ni-S Liquids in the Deep Upper Mantle and its Relation to Diamond and Fe-Ni Alloy Precipitation.
 
 ### In preparation
 
