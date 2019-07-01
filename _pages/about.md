@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at the Department of Earth Sciences of the University of Minnesota. I use quantum chemistry calculations to study the physical and chemical properties of crystals and molecules. Currently, I am using Machine Learning in my research.
-
+I am a research assistant at the Department of Earth Sciences of the University of Minnesota. I use quantum chemistry calculations to study the physical and chemical properties of crystals and molecules.
 
 
 ## Research Interest
 
-* Hydrous defects in Nominally Anhydrous Minerals (NAMs)
-
 * Stable isotope fractionation calculation
-
-* Thermodynamical modeling 
-
-* Machine learning
+* Hydrous defects in Nominally Anhydrous Minerals (NAMs)
+* Thermodynamic modeling 
+* Machine learning / Deep learning
 
   
 
