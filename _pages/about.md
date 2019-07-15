@@ -13,7 +13,7 @@ I am a research assistant at the Department of Earth Sciences of the University 
 
 ## Research Interest
 
-* Computational chemistry (quantum chemistry/First Principles/DFT/_ab initio_/DFT calculations)
+* Computational chemistry (First Principles/_ab initio_/DFT calculations)
 
 * Thermodynamic modeling 
 
